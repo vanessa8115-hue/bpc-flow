@@ -49,7 +49,7 @@ O projeto tem como objetivo facilitar o controle cadastral, acompanhamento da va
 
 ### Exportação Excel
 
-(Adicionar imagem)
+![Planilha Excel](img%2003%20planilha.png)
 
 ## Próximas melhorias
 
