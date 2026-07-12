@@ -45,7 +45,7 @@ O projeto tem como objetivo facilitar o controle cadastral, acompanhamento da va
 
 ### Painel de acompanhamento
 
-![Painel de acompanhamento](img%2002%20painel%20cont.png)
+![Painel de acompanhamento](img%2002%20painel%20cont..png)
 
 ### Exportação Excel
 
