@@ -42,9 +42,10 @@ O projeto tem como objetivo facilitar o controle cadastral, acompanhamento da va
 
 ![Menu inicial](img%2001%20menu.png)
 
+
 ### Painel de acompanhamento
 
-(Adicionar imagem)
+![Painel de acompanhamento](img%2002%20painel%20cont.png)
 
 ### Exportação Excel
 
