@@ -40,7 +40,7 @@ O projeto tem como objetivo facilitar o controle cadastral, acompanhamento da va
 
 ### Tela inicial
 
-(Adicionar imagem)
+![Menu inicial](img%2001%20menu.png)
 
 ### Painel de acompanhamento
 
